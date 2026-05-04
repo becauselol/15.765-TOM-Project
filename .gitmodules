@@ -1,0 +1,3 @@
+[submodule "MicroTransitSimulator.jl"]
+	path = MicroTransitSimulator.jl
+	url = git@github.com:yongzherui/MicroTransitSimulator.jl.git
